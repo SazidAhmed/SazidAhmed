@@ -1,6 +1,6 @@
-### Hi, I'm Sazid Ahmed ! 👋
+### Sazid Ahmed ! 👋
 
-Here are some ideas to get you started:
+I'm a Full-Stack App Developer. Love to work on PHP, Python & JavaScript. Like to acquire knowledge to improve my skills and competency. Let's make something special.
 
 - 🔭 I’m currently working on ... Business Operating System
 - 🌱 I’m currently learning ... Angular, React and Tailwind
