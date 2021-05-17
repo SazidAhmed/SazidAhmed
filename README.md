@@ -7,7 +7,7 @@
 </h3>
   
   <p align="center"> 💼 Working at <a href="https://www.thenewboston.com">The New Boston</a> </p> 
-  <p align="center"> ⚡ Fun fact: crazy about chocolate :chocolate: </p>
+  <p align="center"> ⚡ Fun fact: crazy about chocolate 🍫: </p>
   
   
   <p align="center">
