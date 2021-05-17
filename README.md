@@ -37,14 +37,29 @@
   
   <table>
     <tr>
-      <th align="center">Laravel</th>
-      <th align="center">Django</th>
+      <th align="center">PHP-Laravel</th>
+      <th align="center">Python-Django</th>
     </tr>
       <td align="center">
         <img src="https://lh3.googleusercontent.com/proxy/MpHAjDJNLwy4S6SuQaRonoIytTGCRlAeaS-WAy_DOQm2emY0wJN4zPPK8d2BWNpN89-2wrk932ppbj1oF__I4UirF0Vj-j1erotX-AQFsToo70qd" height="60">
       </td>
       <td align="center">
         <img src="https://blog.knoldus.com/wp-content/uploads/2020/06/python-django.png" height="60">
+      </td>
+  </table>
+  
+   ### Front-end development
+  
+  <table>
+    <tr>
+      <th align="center">Vue-JS</th>
+      <th align="center">React-JS</th>
+    </tr>
+      <td align="center">
+        <img src="https://cdn-media-1.freecodecamp.org/ghost/2019/03/vueart.png" height="60">
+      </td>
+      <td align="center">
+        <img src="https://www.mobinius.com/wp-content/uploads/2020/02/reactjs-2.png" height="60">
       </td>
   </table>
   
