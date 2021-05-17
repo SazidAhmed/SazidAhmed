@@ -11,7 +11,7 @@
   
   
   <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SazidAhmed&theme=radical&langs_count=6&layout=compact"><img alt="Ryihan Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryihan&theme=radical&langs_count=6&layout=compact" /></a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SazidAhmed&theme=radical&langs_count=10&layout=compact"><img alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SazidAhmed&theme=radical&langs_count=10&layout=compact" /></a>
    </p>
   <h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=ryihan&label=Profile%20views&color=0e75b6&style=flat" alt="sazid" /></h2>
   
