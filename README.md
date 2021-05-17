@@ -13,11 +13,14 @@
   <p align="center">
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SazidAhmed&theme=radical&langs_count=10&layout=compact"><img alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SazidAhmed&theme=radical&langs_count=10&layout=compact" /></a>
    </p>
-  <h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=ryihan&label=Profile%20views&color=0e75b6&style=flat" alt="sazid" /></h2>
+  <h2>🔌 Connect with me 📱</h2>
   
   <p align="center">
     <a href="https://www.linkedin.com/in/sazidahmed-codeman/">
       <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/LinkedIn/linkedin.svg" alt="linkedin" />
+    </a>
+    <a href="https://twitter.com/Sazid_Ahmed_">
+      <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Twitter/twitter.svg" alt="twitter" />
     </a>
     <a href="https://www.instagram.com/sazid_ahmed/">
       <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
