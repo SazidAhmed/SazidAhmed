@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="60">
+        <img src="https://www.techcronus.com/wp-content/uploads/2019/06/Laravel-best-PHP-Framework-1568x1045.jpg" height="60">
       </td>
       <td align="center">
         <img src="https://blog.knoldus.com/wp-content/uploads/2020/06/python-django.png" height="60">
