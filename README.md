@@ -56,8 +56,7 @@
       <th align="center">React-JS</th>
     </tr>
       <td align="center">
-        <img src="![image](https://user-images.githubusercontent.com/39996870/118452440-f9528e00-b717-11eb-862a-8a927b4b697c.png)
-" height="60">
+        <img src="https://bloggingcoder.com/api/blog/photo/controlled-props-pattern" height="60">
       </td>
       <td align="center">
         <img src="https://www.mobinius.com/wp-content/uploads/2020/02/reactjs-2.png" height="60">
