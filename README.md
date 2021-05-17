@@ -16,6 +16,9 @@
   <h2>🔌 Connect with me 📱</h2>
   
   <p align="center">
+    <a href="mailto:sazidahmed.official@gmail.com">
+        <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
+    </a>
     <a href="https://www.linkedin.com/in/sazidahmed-codeman/">
       <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/LinkedIn/linkedin.svg" alt="linkedin" />
     </a>
@@ -24,9 +27,6 @@
     </a>
     <a href="https://www.instagram.com/sazid_ahmed/">
       <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
-    </a>
-    <a href="mailto:sazidahmed.official@gmail.com">
-      <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
     </a>
     <a href="https://stackoverflow.com/users/14216560/sazid-ahmed">
       <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Stackoverflow/stackoverflow.svg" alt="stackoverflow" />
@@ -45,7 +45,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="60">
       </td>
       <td align="center">
-        <img src="https://i0.wp.com/phpmagazine.net/wp-content/uploads/2020/09/php8.png?fit=420%2C206&ssl=1" height="60">
+        <img src="https://blog.knoldus.com/wp-content/uploads/2020/06/python-django.png" height="60">
       </td>
       
     </tr>
