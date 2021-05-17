@@ -40,15 +40,12 @@
       <th align="center">Laravel</th>
       <th align="center">Django</th>
     </tr>
-    <tr>
       <td align="center">
-        <img src="https://www.techcronus.com/wp-content/uploads/2019/06/Laravel-best-PHP-Framework-1568x1045.jpg" height="60">
+        <img src="https://lh3.googleusercontent.com/proxy/MpHAjDJNLwy4S6SuQaRonoIytTGCRlAeaS-WAy_DOQm2emY0wJN4zPPK8d2BWNpN89-2wrk932ppbj1oF__I4UirF0Vj-j1erotX-AQFsToo70qd" height="60">
       </td>
       <td align="center">
         <img src="https://blog.knoldus.com/wp-content/uploads/2020/06/python-django.png" height="60">
       </td>
-      
-    </tr>
   </table>
   
   <h2>👩‍💻 Skills</h2>
