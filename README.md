@@ -33,12 +33,17 @@
     </a>
   </p>
   
-  ### Back-end development
+  ### Full-Stack development
   
   <table>
     <tr>
       <th align="center">PHP-Laravel</th>
       <th align="center">Python-Django</th>
+      <th align="center">React-JS</th>
+      <th align="center">Vue-JS</th>
+      <th align="center">Vuetify</th>
+      <th align="center">Tailwind</th>
+      <th align="center">Bulma</th>
     </tr>
       <td align="center">
         <img src="https://lh3.googleusercontent.com/proxy/MpHAjDJNLwy4S6SuQaRonoIytTGCRlAeaS-WAy_DOQm2emY0wJN4zPPK8d2BWNpN89-2wrk932ppbj1oF__I4UirF0Vj-j1erotX-AQFsToo70qd" height="60">
@@ -46,20 +51,20 @@
       <td align="center">
         <img src="https://blog.knoldus.com/wp-content/uploads/2020/06/python-django.png" height="60">
       </td>
-  </table>
-  
-   ### Front-end development
-  
-  <table>
-    <tr>
-      <th align="center">Vue-JS</th>
-      <th align="center">React-JS</th>
-    </tr>
-      <td align="center">
-        <img src="https://bloggingcoder.com/api/blog/photo/controlled-props-pattern" height="60">
-      </td>
       <td align="center">
         <img src="https://www.mobinius.com/wp-content/uploads/2020/02/reactjs-2.png" height="60">
+      </td>
+     <td align="center">
+        <img src="https://bloggingcoder.com/api/blog/photo/controlled-props-pattern" height="60">
+      </td>
+     <td align="center">
+        <img src="https://techleran.up.seesaa.net/image/vuetify.png" height="60">
+      </td>
+     <td align="center">
+        <img src="https://repository-images.githubusercontent.com/106017343/67c23f00-9462-11e9-9dba-c3970f6c612b" height="60">
+      </td>
+     <td align="center">
+        <img src="https://mlbkvqdstzok.i.optimole.com/XiOrsDg-cjnQ82w9/w:auto/h:auto/q:auto/https://www.webexcept.com/wp-content/uploads/2019/08/bulma.jpg" height="60">
       </td>
   </table>
   
