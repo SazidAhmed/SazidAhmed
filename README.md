@@ -37,28 +37,29 @@
   
   <table>
     <tr>
-      <th align="center">PHP-Laravel</th>
-      <th align="center">Python-Django</th>
-      <th align="center">React-JS</th>
-      <th align="center">Vue-JS</th>
+      <th align="center">Laravel</th>
+      <th align="center">Django</th>
+      <th align="center">React</th>
+      <th align="center">Vue</th>
       <th align="center">Vuetify</th>
       <th align="center">Tailwind</th>
       <th align="center">Bulma</th>
+        <th align="center">SQL</th>
     </tr>
       <td align="center">
-        <img src="https://lh3.googleusercontent.com/proxy/MpHAjDJNLwy4S6SuQaRonoIytTGCRlAeaS-WAy_DOQm2emY0wJN4zPPK8d2BWNpN89-2wrk932ppbj1oF__I4UirF0Vj-j1erotX-AQFsToo70qd" height="60">
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_168331.png" height="60">
       </td>
       <td align="center">
-        <img src="https://blog.knoldus.com/wp-content/uploads/2020/06/python-django.png" height="60">
+        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" height="60">
       </td>
       <td align="center">
-        <img src="https://www.mobinius.com/wp-content/uploads/2020/02/reactjs-2.png" height="60">
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" height="60">
       </td>
      <td align="center">
-        <img src="https://bloggingcoder.com/api/blog/photo/controlled-props-pattern" height="60">
+        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" height="60">
       </td>
      <td align="center">
-        <img src="https://techleran.up.seesaa.net/image/vuetify.png" height="60">
+        <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-dark-atom.svg" height="60">
       </td>
      <td align="center">
         <img src="https://repository-images.githubusercontent.com/106017343/67c23f00-9462-11e9-9dba-c3970f6c612b" height="60">
@@ -66,18 +67,25 @@
      <td align="center">
         <img src="https://mlbkvqdstzok.i.optimole.com/XiOrsDg-cjnQ82w9/w:auto/h:auto/q:auto/https://www.webexcept.com/wp-content/uploads/2019/08/bulma.jpg" height="60">
       </td>
+     <td align="center">
+        <img src="https://www.tutorialrepublic.com/lib/images/sql-illustration.png" height="60">
+      </td>
   </table>
   
   <h2>👩‍💻 Skills</h2>
   
   <p align="center">
-     <a href="https://ubuntu.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Ubuntu/ubuntu.svg" alt="ubuntu" width="40" height="40"/>
+    <a href="https://ubuntu.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Ubuntu/ubuntu.svg" alt="ubuntu" width="40" height="40"/>
     <a href="https://www.learn-c.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/C/c.svg" alt="c" width="40" height="40"/>
+    <a href="https://www.learn-c.org"><img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="c" width="40" height="40"/>
+    <a href="https://www.learn-c.org"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" alt="c" width="40" height="40"/>
+    <a href="https://www.learn-c.org"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="c" width="40" height="40"/>
     <a href="https://code.visualstudio.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" alt="vscode" width="40" height="40"/>
     <a href="https://git-scm.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Git/git.svg" alt="git" width="40" height="40"/>
-    <a href="https://bitbucket.org/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Bitbucket/bitbucket.svg" alt="bitbucket" width="40" height="40"/>
     <a href="https://gitlab.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/GitLab/gitlab.svg" alt="gitlab" width="40" height="40"/>
-    <a href="https://www.microsoft.com/pt-br/windows/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Postgresql/postgresql.png" alt="postgresql" width="40" height="40"/>
+    <a href="https://www.microsoft.com/pt-br/windows/"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png" alt="postgresql" width="40" height="40"/>
+        <a href="https://www.microsoft.com/pt-br/windows/"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/heroku_icon_130912.png" alt="heroku" width="40" height="40"/>
+               <a href="https://www.microsoft.com/pt-br/windows/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_netlify_icon_130354.png" alt="heroku" width="40" height="40"/>
     <a href="https://www.docker.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Docker/docker.svg" alt="docker" width="40" height="40"/>
     <a href="https://br.wordpress.org/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/WordPress/wordpress.svg" alt="wordpress" width="40" height="40"/>
   </p>
