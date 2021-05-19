@@ -6,10 +6,6 @@
   <h3 align="center">I'm a Software Engineer. Like to acquire knowledge to improve my skills and competency.
 </h3>
 
-<p align="center"> 🔭 Currently working on ... Business Operating System </p>
-<p align="center"> 🌱 Currently learning ... Angular, React and Tailwind </p>
-<p align="center"> 👯 Looking to collaborate on ... REST & GraphQL Apis </p>
-<p align="center"> 💬 Ask me about ... Laravel, Django and Vue JS </p>
 
  <h2 align="center">🔥 Streak Stats 🔥</h2>
   
