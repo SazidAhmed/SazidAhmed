@@ -115,13 +115,11 @@
     <a href="https://www.learn-c.org"><img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282149-adobe-premiere-pro-cc-creative-cloud_78301.png" alt="c" width="40" height="40"/>
   </p>
       
-    <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SazidAhmed&theme=radical&langs_count=10&layout=compact"><img alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SazidAhmed&theme=radical&langs_count=10&layout=compact" /></a>
-   </p>
+   
   <h2>🔥 Streak Stats</h2>
   
   <p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=ryihan&theme=dracula" alt="ryihan" />
+    <img src="http://github-readme-streak-stats.herokuapp.com/?user=sazidahmed&theme=dracula" alt="sazidahmed" />
   </p>
   
   <h2>📊 Stats</h2>
