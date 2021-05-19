@@ -94,12 +94,15 @@
     <img src="http://github-readme-streak-stats.herokuapp.com/?user=sazidahmed&theme=tokyonight" alt="sazidahmed" />
   </p>
   
-   <p align="center">
-  <a  href="https://github-readme-stats.vercel.app/api?username=sazidahmed&count_private=true&show_icons=true&theme=tokyonight&hide_title=true"><img alt="Sazid Ahmed Activity Graph" src="https://github-readme-stats.vercel.app/api?username=sazidahmed&count_private=true&show_icons=true&theme=tokyonight&hide_title=true" /></a>
-  </p>
+  
   
    <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sazid Ahmed Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sazidahmed&theme=react-dark&hide_title=true" /></a>
+  </p>
+  
+  
+   <p align="center">
+  <a  href="https://github-readme-stats.vercel.app/api?username=sazidahmed&count_private=true&show_icons=true&theme=tokyonight&hide_title=true"><img alt="Sazid Ahmed Activity Graph" src="https://github-readme-stats.vercel.app/api?username=sazidahmed&count_private=true&show_icons=true&theme=tokyonight&hide_title=true" /></a>
   </p>
   
         
