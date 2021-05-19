@@ -12,33 +12,29 @@
 <p align="center"> 💬 Ask me about ... Laravel, Django and Vue JS </p>
 <p align="center"> ⚡ Fun fact: crazy about chocolate 🍫 </p>
 
+
+ <h2 align="center">🔥 Streak Stats 🔥</h2>
+  
+  <p align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com/?user=sazidahmed&theme=tokyonight" alt="sazidahmed" />
+  </p>
+  
+   <p align="center">
+  <a  href="https://github-readme-stats.vercel.app/api?username=sazidahmed&count_private=true&show_icons=true&theme=tokyonight&hide_title=true"><img alt="Sazid Ahmed Activity Graph" src="https://github-readme-stats.vercel.app/api?username=sazidahmed&count_private=true&show_icons=true&theme=tokyonight&hide_title=true" /></a>
+  </p>
+  
+   <p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sazid Ahmed Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sazidahmed&theme=react-dark&hide_title=true" /></a>
+  </p>
+
   <h2> 💼 Working at </h2>
       <ol >
            <li><a href="https://www.thenewboston.com">The New Boston</a></li>
            <li><a href="https://www.webcore.xyz">WebCore</a></li>
           <li><a href="https://www.techminate.tk">Techminate</a></li>
       </ol>
-  <h2>🔌 Connect with me 📱</h2>
   
-  <p align="center">
-    <a href="mailto:sazidahmed.official@gmail.com">
-        <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
-    </a>
-    <a href="https://www.linkedin.com/in/sazidahmed-codeman/">
-      <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/LinkedIn/linkedin.svg" alt="linkedin" />
-    </a>
-    <a href="https://twitter.com/Sazid_Ahmed_">
-      <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Twitter/twitter.svg" alt="twitter" />
-    </a>
-    <a href="https://www.instagram.com/sazid_ahmed/">
-      <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
-    </a>
-    <a href="https://stackoverflow.com/users/14216560/sazid-ahmed">
-      <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Stackoverflow/stackoverflow.svg" alt="stackoverflow" />
-    </a>
-  </p>
-  
-  ### Full-Stack development
+  ### Full-Stack development 👩‍💻 
   
   <table>
     <tr>
@@ -89,7 +85,7 @@
       </td>
   </table>
   
-  <h2>👩‍💻 Skills</h2>
+  <h2>Skills 👩‍💻</h2>
   
   <p align="center">
     <a href="#"><img src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png" alt="ubuntu" width="40" height="40"/>
@@ -114,24 +110,25 @@
     <a href="https://www.learn-c.org"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_photoshop_icon_130268.png" alt="c" width="40" height="40"/>
     <a href="https://www.learn-c.org"><img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282149-adobe-premiere-pro-cc-creative-cloud_78301.png" alt="c" width="40" height="40"/>
   </p>
-      
-   
-  <h2>🔥 Streak Stats</h2>
+        
+   <h2>Connect with me 📱</h2>
   
-  <p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com/?user=sazidahmed&theme=dracula" alt="sazidahmed" />
-  </p>
-  
-  <h2>📊 Stats</h2>
-  
-  <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ryihan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  </p>
-  
-  
-  <p align="center">
-  <a  href="https://github-readme-stats.vercel.app/api?username=ryihan&count_private=true&show_icons=true&theme=radical"><img alt="Ryihan Activity Graph" src="https://github-readme-stats.vercel.app/api?username=ryihan&count_private=true&show_icons=true&theme=radical" /></a>
-    
+  <p >
+    <a href="mailto:sazidahmed.official@gmail.com">
+        <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
+    </a>
+    <a href="https://www.linkedin.com/in/sazidahmed-codeman/">
+      <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/LinkedIn/linkedin.svg" alt="linkedin" />
+    </a>
+    <a href="https://twitter.com/Sazid_Ahmed_">
+      <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Twitter/twitter.svg" alt="twitter" />
+    </a>
+    <a href="https://www.instagram.com/sazid_ahmed/">
+      <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
+    </a>
+    <a href="https://stackoverflow.com/users/14216560/sazid-ahmed">
+      <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Stackoverflow/stackoverflow.svg" alt="stackoverflow" />
+    </a>
   </p>
   
   <!--
