@@ -5,23 +5,13 @@
   
   <h3 align="center">I'm a Software Engineer. Like to acquire knowledge to improve my skills and competency.
 </h3>
+<p align="center"> 🔭 Currently working on ... Business Operating System </p>
+<p align="center"> 🌱 Currently learning ... Angular, React and Tailwind </p>
+<p align="center"> 👯 Looking to collaborate on ... REST & GraphQL Apis </p>
+<p align="center"> 💬 Ask me about ... Laravel, Django and Vue JS </p>
 
 
- <h2 align="center">🔥 Streak Stats 🔥</h2>
-  
-  <p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com/?user=sazidahmed&theme=tokyonight" alt="sazidahmed" />
-  </p>
-  
-   <p align="center">
-  <a  href="https://github-readme-stats.vercel.app/api?username=sazidahmed&count_private=true&show_icons=true&theme=tokyonight&hide_title=true"><img alt="Sazid Ahmed Activity Graph" src="https://github-readme-stats.vercel.app/api?username=sazidahmed&count_private=true&show_icons=true&theme=tokyonight&hide_title=true" /></a>
-  </p>
-  
-   <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sazid Ahmed Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sazidahmed&theme=react-dark&hide_title=true" /></a>
-  </p>
-
-  ### I Do Full-Stack development With👩‍💻 
+  <h2 align="center">🔥 I Do Full-Stack development 🔥</h2>
   
   <table>
     <tr>
@@ -72,7 +62,7 @@
       </td>
   </table>
   
-  <h2>Skills I've So Far 👩‍💻</h2>
+  <h2 align="center">🔥 My Skills & Competency 🔥</h2>
   
   <p align="center">
     <a href="#"><img src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png" alt="ubuntu" width="40" height="40"/>
@@ -97,10 +87,25 @@
     <a href="https://www.learn-c.org"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_photoshop_icon_130268.png" alt="c" width="40" height="40"/>
     <a href="https://www.learn-c.org"><img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282149-adobe-premiere-pro-cc-creative-cloud_78301.png" alt="c" width="40" height="40"/>
   </p>
-        
-   <h2>My Connect Info 📱</h2>
   
-  <p >
+ <h2 align="center">🔥 Streak Stats 🔥</h2>
+  
+  <p align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com/?user=sazidahmed&theme=tokyonight" alt="sazidahmed" />
+  </p>
+  
+   <p align="center">
+  <a  href="https://github-readme-stats.vercel.app/api?username=sazidahmed&count_private=true&show_icons=true&theme=tokyonight&hide_title=true"><img alt="Sazid Ahmed Activity Graph" src="https://github-readme-stats.vercel.app/api?username=sazidahmed&count_private=true&show_icons=true&theme=tokyonight&hide_title=true" /></a>
+  </p>
+  
+   <p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sazid Ahmed Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sazidahmed&theme=react-dark&hide_title=true" /></a>
+  </p>
+  
+        
+   <h2 align="center">🔥 My Connect Info 🔥</h2>
+  
+  <p align="center">
     <a href="mailto:sazidahmed.official@gmail.com">
         <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
     </a>
