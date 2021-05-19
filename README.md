@@ -27,14 +27,7 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sazid Ahmed Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sazidahmed&theme=react-dark&hide_title=true" /></a>
   </p>
 
-  <h2> 💼 Working at </h2>
-      <ol >
-           <li><a href="https://www.thenewboston.com">The New Boston</a></li>
-           <li><a href="https://www.webcore.xyz">WebCore</a></li>
-          <li><a href="https://www.techminate.tk">Techminate</a></li>
-      </ol>
-  
-  ### Full-Stack development 👩‍💻 
+  ### I Do Full-Stack development With👩‍💻 
   
   <table>
     <tr>
@@ -85,7 +78,7 @@
       </td>
   </table>
   
-  <h2>Skills 👩‍💻</h2>
+  <h2>Skills I've So Far 👩‍💻</h2>
   
   <p align="center">
     <a href="#"><img src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png" alt="ubuntu" width="40" height="40"/>
@@ -111,7 +104,7 @@
     <a href="https://www.learn-c.org"><img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282149-adobe-premiere-pro-cc-creative-cloud_78301.png" alt="c" width="40" height="40"/>
   </p>
         
-   <h2>Connect with me 📱</h2>
+   <h2>My Connect Info 📱</h2>
   
   <p >
     <a href="mailto:sazidahmed.official@gmail.com">
