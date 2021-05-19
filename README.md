@@ -10,8 +10,6 @@
 <p align="center"> 🌱 Currently learning ... Angular, React and Tailwind </p>
 <p align="center"> 👯 Looking to collaborate on ... REST & GraphQL Apis </p>
 <p align="center"> 💬 Ask me about ... Laravel, Django and Vue JS </p>
-<p align="center"> ⚡ Fun fact: crazy about chocolate 🍫 </p>
-
 
  <h2 align="center">🔥 Streak Stats 🔥</h2>
   
@@ -124,12 +122,9 @@
     </a>
   </p>
   
-  <!--
-  
   <p align="center"> If you consider buying me a coffee/tea 🥺👉👈 </p>
   <p align="center">
-    <a href="https://www.buymeacoffee.com/keikomori" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+    <a href="https://www.buymeacoffee.com/sazidahmed" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
   </p>
   
-   -->
   
