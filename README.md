@@ -13,6 +13,18 @@
 
   <h2 align="center">🔥 I Do Full-Stack development 🔥</h2>
   
+      <th align="center">Laravel</th>
+      <th align="center">Django</th>
+      <th align="center">React</th>
+      <th align="center">Vue</th>
+      <th align="center">Vuetify</th>
+      <th align="center">Tailwind</th>
+      <th align="center">GraphQL</th>
+      <th align="center">MySQL</th>
+      <th align="center">PostgreSQL</th>
+      <th align="center">Firebase</th>
+      <th align="center">MongoDB</th>
+  
   <table>
     <tr>
     </tr>
