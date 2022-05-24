@@ -15,17 +15,6 @@
   
   <table>
     <tr>
-      <th align="center">Laravel</th>
-      <th align="center">Django</th>
-      <th align="center">React</th>
-      <th align="center">Vue</th>
-      <th align="center">Vuetify</th>
-      <th align="center">Tailwind</th>
-      <th align="center">GraphQL</th>
-      <th align="center">MySQL</th>
-      <th align="center">PostgreSQL</th>
-      <th align="center">Firebase</th>
-      <th align="center">MongoDB</th>
     </tr>
       <td align="center">
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_168331.png" height="60">
