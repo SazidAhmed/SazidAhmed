@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h1>
   
-  <h3 align="center">I am a responsible and accountable Software Engineer. I like to acquire knowledge, learn and improve my skills and competency. I put my knowledge and skills to build unique & special applications.
+  <h3 align="center">I am a responsible and accountable Software Engineer. I like to acquire knowledge, learn and improve my skills to upgrade my competency level. My knowledge and skills are to build unique & special applications.
 </h3>
 <p align="center"> 🔭 Currently working on ... Business Operating System </p>
 <p align="center"> 🌱 Currently learning ... Software Architecture & Design Patterns</p>
